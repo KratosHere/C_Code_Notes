@@ -4,6 +4,7 @@
 %f => For Real Values!
 %c => For Characters!
 
+All of these are called Format Specifier!!
 
 */
 
